@@ -93,6 +93,4 @@ Example output in `output.json`:
 - Build a simple web interface
 - Docker support for easy deployment
 
-## License
 
-This project is licensed under the MIT License.
