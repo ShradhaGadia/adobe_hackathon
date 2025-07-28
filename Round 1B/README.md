@@ -63,7 +63,3 @@ python document_analyzer.py
   "subsection_analysis": [...]
 }
 ```
-
-## License
-
-This project is open-source and licensed under the MIT License.
