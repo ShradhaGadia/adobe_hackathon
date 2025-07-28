@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+    "processing_timestamp": "2025-07-28T13:59:01.400052"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Paper documents",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Content copied on the",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "of the following:",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "then click Continue :",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit text in a PD F",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "(Requires a scanner) Method 1 : From the top tools bar, select Create . Then, select Scanner as the file type, select the scanner, and follow through the steps or browse to locate a pre -scanned page. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create from scanner and follow through the workflow. Microsoft O\ufb03ce documents Method 1 (Windows only): From the authoring application toolbar, select Adobe Acrobat > Create and Share Adobe PDF . Method 2 (Windows only): Open the file in its source application and then go to Print > Adobe PDF printer . Method 3 (Windows only): Right -click on the file and select Convert to Adobe PDF . Method 4 : Drag and drop the file from your system to the Acrobat Home page. Method 5 (macOS only): From the authoring application, select File > Print > PDF > Save as Adobe PDF . Email messages Method 1 (Windows only) : Within Microsoft Outlook or Lotus Notes, select Acrobat PDFMaker or select Adobe PDF menu options (Outlook) or the Actions menu (Lotus Notes). Method 2 (Windows only) : From the email application, go to Print > Adobe PDF Create a PDF (not a PDF Portfolio) . Method 3 (Outlook 2010 or later): From the email folder or selection of messages, right -click and then select Convert to Adobe PDF . Web pages Method 1 : From the top tools bar, select Create . Then, select Web page as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF fr om web page and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF. Method 4: From the top -right corner of the webpage, selec t > Print > Adobe PDF .",
+      "page_number": 3,
+      "key_entities": [
+        "Create",
+        "Create"
+      ]
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "clipboard Method 1 : From the top tools bar, select Create . Then, select Clipboard as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from clipboard and follow through the workflow. AutoCAD files (Acrobat Pro for Windows only) Method 1 : From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflo w. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click the file and select Convert to Adobe PDF . Method 4 : Within AutoCAD, go to Print > Adobe PDF . Adobe Photoshop, Adobe Illustrator, and Adobe InDesign files Method 1 : From the top tools bar, select Create a PDF and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflow. Method 2 : Drag and drop the file from your system to the Acrobat Home page. PostScript and EPS files Method 1 : From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflow. Method 2 : Drag and drop the file from your system to the Acrobat Distiller icon or Acrobat Distiller window. 3D files (Acrobat Pro) Method 1 : From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macO S) > Create > PDF from file and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3 : From Microsoft PowerPoint, select Adobe Presenter > Publish .",
+      "page_number": 4,
+      "key_entities": [
+        "Create"
+      ]
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "\u2022 To convert the selected Visio layers to individual PDF layers within a PDF layer set, click Create Layer Set, and optionally, type a layer name. \u2022 To convert the selected Visio layers to individual layers (but not grouped under a layer set), click the Add Layer(s) button. Note: The name of a layer in the Layers In Visio Drawing list is unavailable if that layer is included in the Layers In PDF list. When you select that layer in the Layers In PDF list, a bullet appears next to the layer\u2019s name in the Layers In Visio Drawing list. 4. Optionally, do any of the following: \u2022 To reorder the layers in the Layers In PDF list, drag an item up or down in the list. \u2022 To include a visibility property that can be switched on or off in Acrobat, deselect Locked On adjacent to the PDF layer; to lock the resulting PDF layer\u2019s visibility on, select Locked On. \u2022 To save the current settings of Visio layers selected, click Save PDF Settings , and click OK. These settings are used the next time you convert the current Visio file to a PDF file. 5. Click Convert To PDF, specify a folder in the Save In box in which to save the PDF file, type a filename, and then click Save. Note: Visio layers that were selected for conversion and that have Visio settings for visible, printable, or lock are converted to PDF layers; the visible and printable properties are included in the resulting PDF layers. If the Visio file contains a background page, header, or footer, the PDF file automatically has PDF layers named for those items. Convert AutoCAD files to PDF (Acrobat Pro for Windows) Use PDFMaker to convert AutoCAD files from within the AutoCAD application. You can also use the Batch Conversion feature to convert many AutoCAD files in one operation. Acrobat PDFMaker preserves selected layers and layouts when converting AutoCAD files to PDF. Convert AutoCAD files when AutoCAD is installed When converting individual AutoCAD files, you don't usually need to change page size and plotting settings. PDFMaker uses the appropriate layout page size and plotting information to create a correctly sized PDF file.",
+      "page_number": 1,
+      "key_entities": []
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "\u2022 Flatten All Layers. When layers are flattened, only those entities belonging to layers that are not frozen and are printable appear in the converted PDF. \u2022 Retain All Or Some Layers. In the next dialog box, specify the layers to include in the resulting PDF. 5. Specify a filename and location in the Save As dialog box, and click Save .",
+      "page_number": 3,
+      "key_entities": []
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Open the PDF you want to edit in Acrobat, and then select Edit in the global bar. The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a scanned do cument, Acrobat automatically runs OCR to make the text and images editable. The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or add text to a PDF. You can correct typos, change fonts and typeface si ze, adjust alignment, add superscripts or subscripts, and resize text or paragraphs. Set the default font for adding and editing text When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new text. When you edit text, any f ont that isn't available on the system is substituted by a default fall-back font for the particular script. For example, Minion Pro is the default fall -back font for Roman script fonts. The substitution of unavailable fonts by default fonts can introduce inconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a specific font for any text that is added or modified in the PDF document from Font Options under Content Editing. 1. From the hamburger menu (Windows) or the Acrobat menu (macOS), choose Preferences . The Preferences dialog box is displayed. (Alternatively, you can press Ctrl+K keys on Windows\u00ae or Command+K keys on macOS.) 2. In the dialog box, select Content Editing under Categories to display Font Options. 3. Select an appropriate font in the drop-down lists:",
+      "page_number": 2,
+      "key_entities": []
+    }
+  ]
+}

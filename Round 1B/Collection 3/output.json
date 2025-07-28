@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T13:59:05.828610"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingred ients:",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instru ctions:",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Agedashi Tofu",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Aloo Gobi",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Coconut Rice",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 1 beef roast (3 -4 pounds) \u2022 2 cloves garlic, minced \u2022 1 tablespoon fresh rosemary, chopped \u2022 1 tablespoon fresh thyme, chopped \u2022 1/4 cup olive oil \u2022 Salt and pepper to taste",
+      "page_number": 3,
+      "key_entities": []
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 In a large pot, cook ground beef with diced onion and garlic over medium heat until browned. \u2022 Stir in kidney beans, diced tomatoes, tomato paste, beef broth, chili powder, cumin, and paprika. \u2022 Bring to a boil, then reduce heat and simmer for 30 minut es, stirring occasionally. \u2022 Season with salt and pepper. \u2022 Serve hot, garnished with shredded cheese and sour cream.",
+      "page_number": 5,
+      "key_entities": []
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "\u2022 Ingredients : o 1 block tofu o 1/4 cup cornstarch o 1 cup dashi broth o 2 tablespoons soy sauce o 1 tablespoon mirin o 1/4 cup green onions o 1/4 cup grated daikon \u2022 Instructions : o Cut tofu into cubes and coat with cornstarch. o Fry in hot oil until golden. o Heat dashi broth with soy sauce and mirin. o Serve tofu in broth, topped with green onions and grated daikon.",
+      "page_number": 2,
+      "key_entities": []
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "\u2022 Ingredients : o 2 potatoes o 1 cauliflower o 1 small on ion o 2 cloves garlic o 1 teaspoon cumin o 1 teaspoon turmeric o 1 teaspoon coriander o 1 teaspoon garam masala o 1 teaspoon salt o 2 tablespoons oil \u2022 Instructions : o Peel and dice potatoes, cut cauliflower into florets. o Heat oil in a pan and saut\u00e9 diced onion and minced garlic until translucent. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. o Add potatoes and cauliflower, stir to coat with spices. o Cover and cook until vegetables are tender, stirring occasionally. o Add salt to taste and serve.",
+      "page_number": 2,
+      "key_entities": []
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients : o 1 cup rice o 1 cup coconut milk o 1 cup water o 1/4 cup shredded coconut o 1 teaspoon salt \u2022 Instructions : o Saut\u00e9 shredded coconut until lightly browned. o Add rice, coconut milk, water, and salt. o Bring to a boil, then reduce heat and simmer until rice is tender. o Serve warm.",
+      "page_number": 1,
+      "key_entities": []
+    }
+  ]
+}

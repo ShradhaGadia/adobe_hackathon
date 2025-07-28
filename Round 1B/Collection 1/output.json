@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T13:58:59.881329"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Overview of the Region",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Travel Tips",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Types of Food",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites in Marseille",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence -Alpes -C\u00f4te d'Azur, Occitanie, and parts of Nouvelle -Aquitaine. This area is renowned for its diverse landscapes, from the sun -drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and mild winters, making it a year -round destination. The South of France is also famous for its cuisine, wines, and vibrant cultural scene.",
+      "page_number": 2,
+      "key_entities": []
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "\u2022 Best Time to Visit: The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. \u2022 Transportation : The region is well -connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. \u2022 Language : While French is the o\ufb03cial language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience. Marseille: The Oldest City in France",
+      "page_number": 2,
+      "key_entities": []
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural influences. Here are some key types of food you can expect to find: \u2022 Seafood: With its extensive coastline, the Sout h of France o\ufb00ers an abundance of fresh seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea bass, and mussels marini\u00e8re. The regio n's proximity to the Mediterranean Sea ensures that the seafood is always fresh and flavorful. \u2022 Proven\u00e7al Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential Proven\u00e7al dishes. Proven\u00e7al cuisine also includes dishes like tapenade, a spread made from olives, capers, and anchovies, and pissaladi\u00e8re, a savory tart topped with caramelized onions, olives, and anchovies. \u2022 Ni\u00e7oise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Ni\u00e7oise, a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other Ni\u00e7oise specialties include pan bagnat, a sandwich made with tuna, vegetables, and olive oil, and daube, a slow -cooked beef stew with red wine and vegetables. \u2022 Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow -cooked casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish. Occitan cuisine also includes dishes like garbu re, a thick soup made with cabbage, beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod spread. \u2022 Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like piperade, a pepper and tomato stew, and axo a, a veal stew with peppers. Basque cuisine is also known for its pintxos, small snacks typically served in bars, and g\u00e2teau Basque, a traditional Basque cake filled with pastry cream or cherry jam.",
+      "page_number": 2,
+      "key_entities": []
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "The South of France is home to many iconic dishes that you must try during your visit: \u2022 Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with sa\ufb00ron and herbs. Bouillabaisse is typically served with rouille, a garlic ky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean. \u2022 Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned wit h herbs de Provence. Ratatouille can be served as a main dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a testament to the region's love for fresh, seasonal produce. \u2022 Salade Ni\u00e7oise: A refreshing salad with tuna, hard-bo iled eggs, tomatoes, green beans, olives, and anchovies, dressed with olive oil and vinegar. Salade Ni\u00e7oise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day. \u2022 Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically enjoyed as a street food in Nice. Socca is cooked in a wood -fired oven and is best eaten hot, straight from the oven. It's a sim ple yet delicious snack that showcases the region's love for humble, rustic dishes. \u2022 Cassoulet: A hearty casserole from the Languedoc region, made with white beans, sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow cooking to develop its rich, complex flavors. The dish is a comforting and satisfying meal that is perfect for a chilly evening. \u2022 Tarte Trop\u00e9zienne: A dessert from Saint -Tropez, consisting of a brioche filled with a creamy mixture of pastry cream and butter. Tarte Tro p\u00e9zienne is a sweet treat that is perfect for a special occasion or as an indulgent afternoon snack. The dessert was created by a Polish baker in the 1950s and quickly became a favorite among locals and tourists alike. Must -Visit Restaurants To truly exp erience the culinary delights of the South of France, here are some restaurants",
+      "page_number": 3,
+      "key_entities": []
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "\u2022 Old Port (Vieux -Port) : The heart of Marseille, the Old Port has been a bustling harbor for over 2,600 years. Today, it is a lively area filled with cafes, restaur ants, and markets. \u2022 Basilica of Notre -Dame de la Garde : This iconic basilica, perched on a hill overlooking the city, o\ufb00ers panoramic views of Marseille and the Mediterranean Sea. Built in the 19th century, it is a symbol of the city's maritime heritage. \u2022 Fort Saint -Jean : Constructed in the 17th century, this fort guards the entrance to the Old Port. It now houses part of the Museum of European and Mediterranean Civilizations (MuCEM). \u2022 Le Panier: The oldest district in Marseille, Le Panier is a maze of narrow streets, colorful buildings, and historic landmarks. It's a great place to explore the city's past and enjoy its vibrant culture. \u2022 Ch\u00e2teau d'If : Commissioned by King Francis I in 1524, this fortress on the \u00cele d'If became famous as a prison and was immorta lized in Alexandre Dumas' novel \"The Count of Monte Cristo\" 1. \u2022 La Marseillaise : Marseille played a significant role duri ng the French Revolution, and the city's volunteers composed the national anthem of France, \"La Marseillaise\" 2. Nice: The Jewel of the French Riviera Nice, located on the French Riviera, has been a popular destination for centuries. Its history dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a Roman colony and has since evolved into a glamorous resort town.",
+      "page_number": 2,
+      "key_entities": []
+    }
+  ]
+}
